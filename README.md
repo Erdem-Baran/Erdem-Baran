@@ -48,4 +48,4 @@ I am a passionate developer on my way to becoming a Full Stack Developer. I am c
 
 ---
 
-<p align="center">Ziyaret ettiğiniz için teşekkürler! 🌟</p>
+<p align="center">Thank you for visiting! 🌟</p>
