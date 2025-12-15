@@ -1,30 +1,30 @@
-<h1 align="center">Merhaba, ben Erdem Baran! 👋</h1>
+<h1 align="center">Hello, I'm Erdem Baran! 👋</h1>
 
-<h3 align="center">Uşak Üniversitesi - Bilgisayar Programcılığı Öğrencisi 🎓</h3>
+<h3 align="center">Uşak University - Computer Programming Student 🎓</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erdem-baran/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profilim" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn Profile" />
   </a>
   <a href="https://github.com/Erdem-Baran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profilim" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Profile" />
   </a>
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Full Stack Developer olma yolunda ilerleyen tutkulu bir geliştiriciyim. Şu anda **Uşak Üniversitesi Bilgisayar Programcılığı** bölümünde eğitimime devam ediyorum. Modern web teknolojileri üzerine projeler geliştiriyor ve her gün yeni bir şeyler öğrenmeye odaklanıyorum.
+I am a passionate developer on my way to becoming a Full Stack Developer. I am currently continuing my education at **Uşak University Computer Programming** department. I develop projects on modern web technologies and focus on learning new things every day.
 
-- 🔭 Şu anda **Full Stack Web Geliştirme** üzerine çalışıyorum.
-- 🌱 Kendimi geliştirdiğim alanlar: **Frontend & Backend Teknolojileri**.
-- 🎓 Eğitim: **Uşak Üniversitesi**.
-- 📫 Bana ulaşmak için: **[LinkedIn Profilim](https://www.linkedin.com/in/erdem-baran/)**
+- 🔭 I am currently working on **Full Stack Web Development**.
+- 🌱 Areas I am developing myself in: **Frontend & Backend Technologies**.
+- 🎓 Education: **Uşak University**.
+- 📫 To reach me: **[My LinkedIn Profile](https://www.linkedin.com/in/erdem-baran/)**
 
 ---
 
-### 🛠️ Yetenekler & Teknolojiler
+### 🛠️ Skills & Technologies
 
 <p align="left">
   <!-- Frontend -->
